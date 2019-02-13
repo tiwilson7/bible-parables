@@ -45,7 +45,26 @@
 
 ## Wise and foolish builders
 
-- Luke 6:46-49
+<details><summary>Luke 6:46-49</summary><p>46 “Why do you call me ‘Lord, Lord,’ and not do what I tell you? 47 Everyone who comes to me and hears my words and does them, I will show you what he is like: 48 he is like a man building a house, who dug deep and laid the foundation on the rock. And when a flood arose, the stream broke against that house and could not shake it, because it had been well built. 49 But the one who hears and does not do them is like a man who built a house on the ground without a foundation. When the stream broke against it, immediately it fell, and the ruin of that house was great.” <a href="https://www.biblegateway.com/passage/?search=luke+6:46-49&version=ESV">(ESV)</a></p></details>
+
+### Context
+
+- Immediately follows "A tree and its fruit" (above)
+- This is the last section of Jesus' "Sermon on the Plain"
+
+### Interpretation
+
+- Jesus is talking to his followers and the people who have come to listen to Him.
+
+- They are already making an effort to listen to Him, but that is not enough.
+
+- Jesus says that those who listen but do not obey are like fools who build a house with no foundation.
+
+- Bible study, church service, theology, small groups are all great, but they alone are not enough. Knowledge is not enough. Religion is not enough. We must be obedient to God's Word.
+
+- <details><summary>James 1:22-23</summary><p>22 But be doers of the word, and not hearers only, deceiving yourselves.23 For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. 24 For he looks at himself and goes away and at once forgets what he was like. 25 But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing. <a href="https://www.biblegateway.com/passage/?search=James%201:22-23&version=ESV">(ESV)</a></p></details>
+
+- <details><summary>James 2:14-17</summary><p>14 What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him? 15 If a brother or sister is poorly clothed and lacking in daily food, 16 and one of you says to them, “Go in peace, be warmed and filled,” without giving them the things needed for the body, what good is that? 17 So also faith by itself, if it does not have works, is dead. <a href="https://www.biblegateway.com/passage/?search=James+2%3A14-17&version=ESV">(ESV)</a></p></details>
 
 ## The two debtors
 
