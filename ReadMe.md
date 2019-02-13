@@ -1,8 +1,8 @@
 # Parables
 
-# New wine into old wineskins
+## New wine into old wineskins
 
-### [Luke 5:37-39](https://www.biblegateway.com/passage/?search=Luke+5%3A37-39&version=ESV)
+<details><summary>Luke 5:37-39</summary><p>37 And no one puts new wine into old wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed.38 But new wine must be put into fresh wineskins. 39 And no one after drinking old wine desires new, for he says, ‘The old is good.’” <a href="https://www.biblegateway.com/passage/?search=Luke+5%3A37-39&version=ESV">(ESV)</a></p></details>
 
 ### Context
 
@@ -11,7 +11,7 @@
 - He was asked why His disciples don't fast while John's did
 - He replied that you do not fast while the bridegroom is present, but that the time will come when the bridegroom is taken from them. Then they will fast.
 
-### Meaning 1
+### Interpretation 1
 
 - Jesus was bringing a new covenant that did not fit with the old rituals and customs of the Pharisees
 - Jesus message cut to the heart of the hearer while the Pharisees' customs only dealt with the external
@@ -19,7 +19,7 @@
 - http://www.jesuswalk.com/lessons/5_33-39.htm
 - https://hermeneutics.stackexchange.com/questions/7659/what-does-jesus-mean-in-luke-536-39-new-wine-into-old-wineskins
 
-### Meaning 2
+### Interpretation 2
 
 - Old garment and wineskins = Jesus' disciples
 - New wine and unshrunk cloth represent the practice of fasting twice a week
@@ -28,7 +28,20 @@
 
 ## A tree and its fruit
 
-- Luke 6:43-45
+<details><summary>Luke 6:43-45</summary><p>43 “For no good tree bears bad fruit, nor again does a bad tree bear good fruit, 44 for each tree is known by its own fruit. For figs are not gathered from thornbushes, nor are grapes picked from a bramble bush. 45 The good person out of the good treasure of his heart produces good, and the evil person out of his evil treasure produces evil, for out of the abundance of the heart his mouth speaks." <a href="https://www.biblegateway.com/passage/?search=Luke+6:43-45&version=ESV">(ESV)</a></p></details>
+
+### Context
+
+- Jesus is finishing the "Sermon on the Plain" where he is preaching to his disciples and a crowd that had gathered
+- Immediately before this parable, Jesus criticizes hypocrites for seeing the speck in their brother's eye but not the log in their own eyes.
+- Immediately following this parable, Jesus asks "Why do you call me 'Lord, Lord,' and not do what I tell you?" and compares those who hear His words but does not do them to a man who builds a house on the ground without a foundation.
+
+### Interpretation
+
+- What we say, how we say it, and when we say it reveals the condition of our heart.
+- This passage says that it's a person's *words*, that indicates the condition of their heart. This passage is not talking about actions, but words.
+- We should reflect on our words as a way to gauge our own hearts. This passage is not a license to judge others based on their words (see Context above), but focus on our own words.
+- Great read: https://redeeminggod.com/sermons/luke/luke_6_43-45/
 
 ## Wise and foolish builders
 
