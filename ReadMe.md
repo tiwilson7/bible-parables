@@ -68,7 +68,22 @@
 
 ## The two debtors
 
-- Luke 7:41-43
+<details><summary>Luke 7:41-43</summary><p>41 “A certain moneylender had two debtors. One owed five hundred denarii, and the other fifty. 42 When they could not pay, he cancelled the debt of both. Now which of them will love him more?” 43 Simon answered, “The one, I suppose, for whom he cancelled the larger debt.” And he said to him, “You have judged rightly.” <a href="https://www.biblegateway.com/passage/?search=Luke%207:41-43&version=ESV">(ESV)</a></p></details>
+
+### Context
+
+- A Pharisee named Simon invited Jesus to eat at his house.
+- As they were eating a  "woman of the city" who "was a sinner" washed Jesus' feet with her tears, wiped them with her hair, and anointed them with her very expensive perfume
+- When Simon thought to himself that if Jesus was a prophet, he would have known the woman was a sinner, Jesus told him this parable.
+- After telling him the parable, he compared Simon's inaction (did not give Jesus water for his feet, any kisses, or anoint his head) vs. the woman's humble actions.
+
+### Interpretation
+
+- Jesus seems to be teaching Simon to see the woman as he sees her. She is not forgiven much because she love much but rather she loves much because she has been forgiven much.
+- 47 "Therefore I tell you, her sins, which are many, are forgiven—for she loved much. But he who is forgiven little, loves little."
+- Jesus is saying that love is the proof of forgiven sins.
+- He is also demonstrating his prophetic abilities by responding to Simon's unspoken thought.
+- https://en.wikipedia.org/wiki/Parable_of_the_Two_Debtors
 
 ## The sower
 
