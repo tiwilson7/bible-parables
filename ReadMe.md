@@ -87,11 +87,27 @@
 
 ## The sower
 
-- Luke 8:5-8
+<details><summary>Luke 8:5-8</summary><p>5 “A sower went out to sow his seed. And as he sowed, some fell along the path and was trampled underfoot, and the birds of the air devoured it. 6 And some fell on the rock, and as it grew up, it withered away, because it had no moisture. 7 And some fell among thorns, and the thorns grew up with it and choked it. 8 And some fell into good soil and grew and yielded a hundredfold.” As he said these things, he called out, “He who has ears to hear, let him hear.” <a href="https://www.biblegateway.com/passage/?search=luke+8&version=ESV">Luke 8</a></p></details>
 
-## Purpose of the parables
+### Context
 
-- Luke 8:9-15
+- Jesus was proclaiming the goods news of the kingdom of God in many towns and villages. His disciples were with him. A great crowd had gathered.
+
+- After telling the parable, Jesus explained the purpose of the parables.
+
+  > 9 And when his disciples asked him what this parable meant, 10 he said, “To you it has been given to know the secrets of the kingdom of God, but for others they are in parables, so that ‘seeing they may not see, and hearing they may not understand.’
+
+### Interpretation
+
+- After explaining the purpose of the parables, Jesus himself interprets it for his disciples.
+
+> 11 Now the parable is this: The seed is the word of God. 12 The ones along the path are those who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved. 13 And the ones on the rock are those who, when they hear the word, receive it with joy. But these have no root; they believe for a while, and in time of testing fall away.14 And as for what fell among the thorns, they are those who hear, but as they go on their way they are choked by the cares and riches and pleasures of life, and their fruit does not mature. 15 As for that in the good soil, they are those who, hearing the word, hold it fast in an honest and good heart, and bear fruit with patience.
+
+- https://en.wikipedia.org/wiki/Parable_of_the_Sower
+
+> While in Matthew and Luke, the parable seems to be about the various ways in the which the word of God is received, in Mark, it comes just after a description in the previous chapter of a developing hostility toward Jesus and his ministry. The Pharisees held him suspect for not holding to what they perceived as a strict observance of the Sabbath, by performing various cures. Some schools of thought found such actions permissible only if the person treated were in danger of death.[[3\]](https://en.wikipedia.org/wiki/Parable_of_the_Sower#cite_note-3) Some of the Jerusalem scribes contended that Jesus derived his power through demonic sources. Even the disciples appear not to understand.
+>
+> This is then followed by the [Parable of the Growing Seed](https://en.wikipedia.org/wiki/Parable_of_the_Growing_Seed) and that of [Mustard Seed](https://en.wikipedia.org/wiki/Parable_of_the_Mustard_Seed). Together they indicate that it is not about the individual's response to his message, or even the apparent failure of it to take root, but that "...in spite of the opposition of enemies of the Kingdom and in spite of the moral and intellectual failings of the Kingdom’s putative friends, the Kingdom will succeed immensely in the end."[[4\]](https://en.wikipedia.org/wiki/Parable_of_the_Sower#cite_note-4)[[5\]](https://en.wikipedia.org/wiki/Parable_of_the_Sower#cite_note-5) Mark uses it to highlight the effect Christ's previous teachings have had on people as well as the effect the Christian message has had on the world over the three decades between Christ's ministry and the writing of the Gospel.[[1\]](https://en.wikipedia.org/wiki/Parable_of_the_Sower#cite_note-Kilgallen_p.83-1)
 
 ## Lamp under a jar
 
