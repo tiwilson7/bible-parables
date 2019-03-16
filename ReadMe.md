@@ -111,11 +111,43 @@
 
 ## Lamp under a jar
 
-- Luke 8:16-18
+<details><summary>Luke 8:16-18</summary><p>16 “No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those who enter may see the light.17 For nothing is hidden that will not be made manifest, nor is anything secret that will not be known and come to light. 18 Take care then how you hear, for to the one who has, more will be given, and from the one who has not, even what he thinks that he has will be taken away.” <a href="https://www.biblegateway.com/passage/?search=luke+8&version=ESV">Luke 8</a></p></details>
+
+### Context
+
+- This parable appears immediately after Jesus explains the purpose of the parables and the meaning of the parable of the sower.
+- It appears immediately before Jesus says that those who hear the word of God and do it are his mother and brothers.
+
+### Interpretation
+
+- https://en.wikipedia.org/wiki/Lamp_under_a_bushel
+
+> The light here has been interpreted as referring to Jesus, or to his message, or to the believer's response to that message.
 
 ## The good Samaritan
 
-- Luke 10:25-37
+<details><summary>Luke 10:25-37</summary><p>25 And behold, a lawyer stood up to put him to the test, saying, “Teacher, what shall I do to inherit eternal life?” 26 He said to him, “What is written in the Law? How do you read it?” 27 And he answered, “You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.” 28 And he said to him, “You have answered correctly; do this, and you will live.”29 But he, desiring to justify himself, said to Jesus, “And who is my neighbor?” 30 Jesus replied, “A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him and departed, leaving him half dead. 31 Now by chance a priest was going down that road, and when he saw him he passed by on the other side.32 So likewise a Levite, when he came to the place and saw him, passed by on the other side. 33 But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion. 34 He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him.35 And the next day he took out two denarii[[c](https://www.biblegateway.com/passage/?search=luke+10&version=ESV#fen-ESV-25390c)] and gave them to the innkeeper, saying, ‘Take care of him, and whatever more you spend, I will repay you when I come back.’ 36 Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?” 37 He said, “The one who showed him mercy.” And Jesus said to him, “You go, and do likewise.” <a href="">Luke 10</a></p></details>
+
+### Context
+
+- The parable appears after the 72 return rejoicing that demons were subject to them. Jesus responds by rejoicing that the Father had hidden the gospel from the wise and understanding and revealed it to young children.
+- After the parable, Jesus entered a village where Martha invited him to her house, and then got upset that her sister Mary sat and listened to him rather than help serve.
+
+### Interpretation
+
+- https://en.wikipedia.org/wiki/Parable_of_the_Good_Samaritan
+
+> Many see [2Chronicles 28:8–15](https://www.biblica.com/bible/?osis=niv:2chronicles.28:8%E2%80%9328:15) as the model for the Samaritan's neighborly behavior in the parable. In Chronicles, Northern Israelite ancestors of Samaritans treat Judean enemies as fellow-Israelite neighbors.
+
+> [Francis Schaeffer](https://en.wikipedia.org/wiki/Francis_Schaeffer) suggested: "Christians are not to love their believing brothers to the exclusion of their non-believing fellowmen. That is ugly. We are to have the example of the good Samaritan consciously in mind at all times."
+
+> [Joel B. Green](https://en.wikipedia.org/wiki/Joel_B._Green) writes that Jesus' final question (which, in something of a "twist", reverses the question originally asked):
+>
+>  ... presupposes the identification of "anyone" as a neighbor, then presses the point that such an identification opens wide the door of loving action. By leaving aside the identity of the wounded man and by portraying the Samaritan traveler as one who performs the law (and so as one whose actions are consistent with an orientation to eternal life), Jesus has nullified the worldview that gives rise to such questions as, Who is my neighbor? The purity-holiness matrix has been capsized. And, not surprisingly in the Third Gospel, neighborly love has been concretized in care for one who is, in this parable, self-evidently a social outcast
+>
+> [Martin Luther King, Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.) often spoke of this parable, contrasting the rapacious philosophy of the robbers, and the self-preserving non-involvement of the priest and Levite, with the Samaritan's coming to the aid of the man in need. King also extended the call for neighborly assistance to society at large:
+>
+> On the one hand we are called to play the good Samaritan on life's roadside; but that will be only an initial act. One day we must come to see that the whole Jericho road must be transformed so that men and women will not be constantly beaten and robbed as they make their journey on life's highway. True compassion is more than flinging a coin to a beggar; it is not haphazard and superficial. It comes to see that an edifice which produces beggars needs restructuring.
 
 ## The friend at night
 
