@@ -167,7 +167,21 @@
 
 ## The friend at night
 
-- Luke 11:5-8
+<details><summary>Luke 11:5-13</summary><p>5 And he said to them, “Which of you who has a friend will go to him at midnight and say to him, ‘Friend, lend me three loaves, 6 for a friend of mine has arrived on a journey, and I have nothing to set before him’; 7 and he will answer from within, ‘Do not bother me; the door is now shut, and my children are with me in bed. I cannot get up and give you anything’? 8 I tell you, though he will not get up and give him anything because he is his friend, yet because of his impudence[c] he will rise and give him whatever he needs. 9 And I tell you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. 10 For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. 11 What father among you, if his son asks for[d] a fish, will instead of a fish give him a serpent; 12 or if he asks for an egg, will give him a scorpion? 13 If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!”<a href="https://www.biblegateway.com/passage/?search=luke+11&version=ESV">Luke 11</a></p></details>
+
+### Context
+
+- Jesus tells this parable immediately after teaching his disciples the Lord's prayer when the asked him how to pray.
+- It appears right before Luke describes the time when Jesus casts out a demon and some of the people accused him of casting them out by the power of Satan.
+
+### Interpretation
+
+- Since the parable is a part of Jesus response to the disciples' question of how to pray, we should assume the moral is teaching us how we should pray.
+- The parable emphasizes the persistence of the friend. Jesus says that the man does not fulfill his friend's wish because they are friends but rather because of his persistence.
+- In verse 13, Jesus specifically mentions that God will give the Holy Spirit to those who ask him. It does not say that he'll answer any prayer.
+- https://bible.org/seriespage/lesson-54-how-approach-god-luke-115-13
+
+> Jesus’ specifying the Holy Spirit shows that He is not promising to meet our every whim for material things or for earthly benefits. But He is promising that if something is for our spiritual good and we come as trusting children and ask, the loving Father will give it to us. He may delay the blessing because He knows that I am not ready to receive it yet. He may have purposes of training me in faith and prayer that require His withholding the request for the present time. He may know what I do not know, that my request is not for my ultimate good, and so He will deny my request because He has something better for me. But Jesus is teaching that we should approach God with trust, as a child would come to a loving father, and if my request is for my spiritual good, the Father will give it to me. Andrew Murray (p. 37) puts it, “Fatherlike giving is the Divine response to childlike living.”
 
 ## The strong man
 
