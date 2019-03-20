@@ -111,7 +111,34 @@
 
 ## Lamp under a jar
 
-- Luke 8:16-18
+<details><summary>Luke 8:16-18</summary><p>16 “No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those who enter may see the light. 17 For nothing is hidden that will not be made manifest, nor is anything secret that will not be known and come to light. 18 Take care then how you hear, for to the one who has, more will be given, and from the one who has not, even what he thinks that he has will be taken away.”</p></details>
+
+### Context
+
+- This parable immediately follows the parable of the sower and Jesus explanation of the purpose of the parables and of the parable of the sower.
+- Immediately after the parable Jesus was told that his mother and brothers were waiting to see him. He replied that "those who hear the word of God and do it" are his mother and brothers.
+
+### Interpretation
+
+- The light could be interpreted as Jesus, his message, or the disciples' response to his message
+
+  - https://en.wikipedia.org/wiki/Lamp_under_a_bushel
+
+- Since the immediate context both before and after the parable deal with how a person responds to the Word of God, it would logically follow that the meaning of the light in this parable is also the Word of God.
+
+  > First, I look at the immediate context. It is followed by a verse about nothing being hidden (8:17), and a familiar saying "Therefore consider carefully how you listen (Greek *akouo*)" (8:18), very similar to 8:8 in the Parable of the Soils: "He who has ears to hear (*akouo*), let him hear (*akouo*)" (8:8). In fact, the word "to hear" appears many times in the Parable of the Soils.
+  >
+  > - "He who has ears to **hear**, let him **hear**." (8:8)
+  > - "... though **hearing**, they may not understand." (8:10)
+  > - "Those along the path are the ones who **hear**..." (8:12)
+  > - "Those on the rock are the ones who receive the word with joy when they **hear** it..." (8:13)
+  > - "The seed that fell among thorns stands for those who **hear**..." (8:14)
+  > - "But the seed on good soil stands for those ... who **hear** the word..." (8:15)
+  >
+  > The clear theme of the Parable of the Soils is hearing the Word of God, and it appears that this theme stretches from 8:1 where Jesus is traveling from village to city "proclaiming the good news of the kingdom of God" to 8:21 where Jesus says that his true family are those who hear God's Word and do it (8:21).
+  > 
+
+  - http://www.jesuswalk.com/lessons/8_16-21.htm
 
 ## The good Samaritan
 
