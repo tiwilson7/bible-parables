@@ -185,7 +185,29 @@
 
 ## The strong man
 
-- Luke 11:21-22
+<details><summary>Luke 11:21-22</summary><p>21 When a strong man, fully armed, guards his own palace, his goods are safe; 22 but when one stronger than he attacks him and overcomes him, he takes away his armor in which he trusted and divides his spoil. <a href="https://www.biblegateway.com/passage/?search=luke+11&version=ESV">Luke 11</a></p></details>
+
+### Context
+
+- Jesus tells this parable while responding to people what said that he casts out demons by the power of Beelzebul.
+- After the parable, he says that whoever is not with him is against him and that whoever does not gather with him scatters.
+- He then says that when an unclean spirit has left a person, it comes back seven other spirits more evil than itself, and the person is worse off than before.
+
+### Interpretation
+
+- https://en.wikipedia.org/wiki/Parable_of_the_Strong_Man
+
+> In the canonical gospels of [Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew), [Mark](https://en.wikipedia.org/wiki/Gospel_of_Mark), and [Luke](https://en.wikipedia.org/wiki/Gospel_of_Luke), this parable forms part of the [Beelzebul controversy](https://en.wikipedia.org/wiki/Mark_3#A_house_divided), where Jesus's opponents accuse him of gaining his power to [exorcise](https://en.wikipedia.org/wiki/Exorcism#Jesus) demons by being in league with [Satan](https://en.wikipedia.org/wiki/Satan). Interpreted in this context, the strong man represents Satan, and the attacker represents Jesus. Jesus thus says that he could not perform exorcisms (represented by stealing the strong man's possessions) unless he was opposed to – and had defeated – Satan (represented by tying up the strong man).
+
+- https://www.thegospelcoalition.org/article/jesus-bound-strong-man-what-that-means-for-you/
+
+> Jesus says he came to bind the strong man (that is, Satan) in order that he himself, as the stronger man (cf. [Mark 1:7](https://www.esv.org/Mark%201%3A7/)), might plunder Satan’s house. This is Jesus’s own explanation of the events we encounter in [Mark 1–3](https://www.esv.org/Mark%201%E2%80%933/).
+
+- https://www.gotquestions.org/bind-the-strongman.html
+
+> Jesus was not in league with Satan, as the scribes suggested, but had come to the earth, to what is essentially Satan’s “house” ([1 John 5:19](https://biblia.com/bible/esv/1%20John%205.19)), in order to bind Satan and plunder his “goods,” which are the souls of men ([John 17:15](https://biblia.com/bible/esv/John%2017.15); [Luke 4:18](https://biblia.com/bible/esv/Luke%204.18); [Ephesians 4:8](https://biblia.com/bible/esv/Eph%204.8)).
+>
+> A parallel passage says this: “When a strong man, fully armed, guards his own house, his possessions are safe. But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted and divides up his plunder” ([Luke 11:21–22](https://biblia.com/bible/esv/Luke%2011.21%E2%80%9322)). Satan is strong, and he holds possessions that he guards jealously. But Jesus is the One who was and is stronger than the strong man. He is the only One who can bind the strong man and rescue us from his clutches (see [John 12:31](https://biblia.com/bible/esv/John%2012.31)).
 
 ## The rich fool
 
