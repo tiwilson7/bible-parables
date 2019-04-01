@@ -211,7 +211,30 @@
 
 ## The rich fool
 
-- Luke 12:13-21
+<details><summary>Luke 12:13-21</summary><p>13 Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” 14 But he said to him, “Man, who made me a judge or arbitrator over you?” 15 And he said to them, “Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions.” 16 And he told them a parable, saying, “The land of a rich man produced plentifully, 17 and he thought to himself, ‘What shall I do, for I have nowhere to store my crops?’ 18 And he said, ‘I will do this: I will tear down my barns and build larger ones, and there I will store all my grain and my goods. 19 And I will say to my soul, “Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.”’ 20 But God said to him, ‘Fool! This night your soul is required of you, and the things you have prepared, whose will they be?’ 21 So is the one who lays up treasure for himself and is not rich toward God.” <a href="https://www.biblegateway.com/passage/?search=luke+12&version=ESV">Luke 12</a></p></details>
+
+### Context
+
+- This parable appears after Jesus tells thousands who had gathered that:
+  - whoever acknowledges him before men will be acknowledged by the Son of Man before the angels
+  - whoever denies him before men will be denied before the angels of God
+  - no one who blasphemes against the Holy Spirit will not be forgiven
+  - when they are brought before the rulers and synagogues that they should not be anxious about how they should defend themselves or what they should say, for the Holy Spirit will teach them what to say
+- The parable appears before Jesus tells them not be be anxious about their lives, what they will eat, and what they will put in their bodies..."Instead seek his kingdom, and these things will be added to you"
+
+### Interpretation
+
+- https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool
+
+> The rich farmer in this parable is portrayed negatively, as an example of [greed](https://en.wikipedia.org/wiki/Greed_(sin)).[[1\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-Green-1) By replacing his existing barn, he avoids using agricultural land for storage purposes, thus maximising his income, as well as allowing him to wait for a price increase before selling.[[1\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-Green-1) [St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo) comments that the farmer was "planning to fill his soul with excessive and unnecessary feasting and was proudly disregarding all those empty bellies of the poor. He did not realize that the bellies of the poor were much safer storerooms than his barns."[[3\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-Just-3)
+>
+> The farmer's conversation with himself is, in Luke's gospel, a negative.[*further explanation needed*][[1\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-Green-1) It is also self-centred: [first-person pronouns](https://en.wikipedia.org/wiki/English_personal_pronouns) occur 11 times.[[4\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-Hultgren-4) Arland J. Hultgren comments that the parable "provides an example of what one ought not to be like. The person whose identity is tied up with his or her possessions, status, and/or achievements — and is driven by acquiring them — can so easily end up unaware of the call of God and the need of the neighbor."[[4\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-Hultgren-4)
+>
+> The farmer's foolishness lies particularly in the fact that wealth cannot guarantee the future: the [Day of Judgment](https://en.wikipedia.org/wiki/Last_Judgment) arrives sooner than he expects.[[5\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-Purdy-5)
+>
+> [Ellicott's Commentary](https://en.wikipedia.org/wiki/Ellicott%27s_Commentary_for_English_Readers) notes the difference between the fool's approach and the [psalmist](https://en.wikipedia.org/wiki/Psalmist)'s:
+>
+> "The psalmist’s repose is not the worldling’s serenity nor the sensualist’s security, but the repose of the quiet conscience and the trusting heart".[[7\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-7)
 
 ## The faithful servant
 
