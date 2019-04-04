@@ -236,9 +236,69 @@
 >
 > "The psalmist’s repose is not the worldling’s serenity nor the sensualist’s security, but the repose of the quiet conscience and the trusting heart".[[7\]](https://en.wikipedia.org/wiki/Parable_of_the_Rich_Fool#cite_note-7)
 
-## The faithful servant
+## The faithful and evil servants
 
-- Luke 12:35-48
+<details><summary>Luke 12:35-48</summary><p>35 “Stay dressed for action[f] and keep your lamps burning, 36 and be like men who are waiting for their master to come home from the wedding feast, so that they may open the door to him at once when he comes and knocks. 37 Blessed are those servants[g] whom the master finds awake when he comes. Truly, I say to you, he will dress himself for service and have them recline at table, and he will come and serve them. 38 If he comes in the second watch, or in the third, and finds them awake, blessed are those servants! 39 But know this, that if the master of the house had known at what hour the thief was coming, he[h] would not have left his house to be broken into. 40 You also must be ready, for the Son of Man is coming at an hour you do not expect.”
+    41 Peter said, “Lord, are you telling this parable for us or for all?” 42 And the Lord said, “Who then is the faithful and wise manager, whom his master will set over his household, to give them their portion of food at the proper time? 43 Blessed is that servant[i] whom his master will find so doing when he comes. 44 Truly, I say to you, he will set him over all his possessions. 45 But if that servant says to himself, ‘My master is delayed in coming,’ and begins to beat the male and female servants, and to eat and drink and get drunk, 46 the master of that servant will come on a day when he does not expect him and at an hour he does not know, and will cut him in pieces and put him with the unfaithful. 47 And that servant who knew his master's will but did not get ready or act according to his will, will receive a severe beating. 48 But the one who did not know, and did what deserved a beating, will receive a light beating. Everyone to whom much was given, of him much will be required, and from him to whom they entrusted much, they will demand the more.</p></details>
+
+### Context 
+
+- Jesus tells these parables after telling the crowd not to be anxious about anything, that God will provide for their needs, that they should seek first the kingdom of God (and those things will be added to them), and that where their treasure is, their heart will be there too.
+- After the parables, Jesus says that he came to "cast fire on the earth", that he did not come for peace but rather division, and that even families will be divided over him.
+
+### Interpretation
+
+- <http://www.jesuswalk.com/lessons/12_35-40.htm>
+
+  - TODO
+
+- <http://www.jesuswalk.com/lessons/12_41-48.htm>
+
+  - The Parable's Intended Audience (12:41)
+
+  > Jesus' first parable concerning being ready for the delayed master (12:35-38) concerns all of a master's servants. The second mini-parable about the thief coming in the night dealt with the owner of the house (12:39-40). So Peter is trying to figure out whether Jesus is speaking of the Twelve or of all Jesus' disciples.
+  >
+  > Jesus doesn't really answer Peter's question (posed only here in Luke, not in the parallels in Matthew and Mark). But now he shifts to a pair of parables about head servants charged with caring for servants under them. It's as if Jesus indicates that these next two parables apply to the Twelve as church leaders, and then, by extension, to all those who have leadership responsibility in churches, which are known in the New Testament as the "household" of God (Ephesians 2:19).
+
+  - Wise and faithful manager (12:42)
+
+  > The steward that Jesus holds up for acclaim is not doing something particularly flashy or creative. He is just continuing to do his duty, day after day, without fail, without forgetting, without unexplained lapses. His virtue is faithfulness. You can count on him.
+
+  - Faithful Service (12:43-44)
+
+  > When the master returns from a journey and finds that in his absence his steward has been doing what he was told to do without slacking off, the servant will be rewarded.
+
+  - Presumptive and Undisciplined Service (12:45-46)
+
+  > Notice the element of delay in the master's return that was present in the parable of the first little parable in this series (12:35-38) -- "My master is taking a long time in coming" (12:45). Surely, Jesus is preparing his disciples for a delay in his own return. The Greek word is *chronizo*, "to extend a state or an activity beyond an expected time, 'delay, take a long time (in doing something).' "[8]
+  >
+  > 
+  >
+  > The unfaithful servant now lives for himself and not his master. He neglects his responsibilities toward his fellow servants, and, instead, looks to his own comfort and luxury, signaled by "eating and drinking." I wonder about the self-indulgent luxury that we Westerners display to the world. If we are living for ourselves, we cannot at the same time be under discipline as a faithful servant to the Master. How much would we be willing to give up of our luxury before we said, "Enough! I won't go any farther."? How faithful are we really? Or are we just fair-weather Christians?
+
+  - Unexpected Return and Punishment (12:46)
+
+  > The master's coming in Jesus' parable is swift, but the unfaithful servant is clueless. He doesn't "expect" the master. The Greek verb is *prosdokao*, "to give thought to something that is viewed as lying in the future, wait for, look for, expect.' "[10] Nor does the abusive servant "know" or anticipate this hour of returning.
+  >
+  > 
+  >
+  > Though the unfaithful steward had been a servant, since he refused to believe that his master would return to correct him, he is allotted a place with the gross unbelievers. He is stripped entirely of his relation to the master's household. How horrible!
+
+  - Punishment in Proportion to Knowledge (12:47-48a)
+
+  > Jesus concludes with some pretty sobering words. A servant will be beaten in accordance with his knowledge of what his master wanted.
+  >
+  > 
+  >
+  > Servants, disciples are responsible for what they have been told, and must use that knowledge to prepare themselves for what is to come.
+
+  - To Whom Much is Given, Much Is Demanded (12:48b)
+
+  > If verses 12:47-48a explain the concept of relative responsibility for punishment, then vs. 12:48b summarizes the concept into a principle.
+
+  - We are the Servants
+
+  > My dear friend, these parables Jesus has been giving apply to us -- you and me. Jesus is the Master. We are the servants, some of us are head servants. We have been given responsibilities to fulfill in this age between Jesus' First Coming and his Second Coming.
 
 ## The barren fig tree
 
